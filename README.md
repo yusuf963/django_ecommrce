@@ -43,8 +43,7 @@
 `python manage.py collectstatic`
 # run server
 
- 
-
+# visit `localhost:8000` to see Django server running
 
 # how to do
 laod static files
